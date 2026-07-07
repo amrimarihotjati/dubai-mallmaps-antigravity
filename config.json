@@ -6,10 +6,24 @@
   "malls": [
     {
       "id": 1,
-      "name": "The Dubai Mall",
-      "image_url": "https://example.com/dubaimall.jpg",
-      "description": "Mall terbesar di dunia dengan berbagai fasilitas mewah.",
-      "gmaps_link": "https://goo.gl/maps/contohLink1"
+      "name": "Dubai Mall",
+      "image_url": "https://res.cloudinary.com/ddjuftfy2/image/upload/f_webp,c_fill,q_auto/memphis/large/1718566367_cover%20(1).webp",
+      "description": "Huge shopping and leisure centre, with department stores, plus an ice rink, aquarium and a cinema.",
+      "gmaps_link": "https://maps.app.goo.gl/YUTWKKazFzbDN8s46"
+    },
+    {
+      "id": 2,
+      "name": "Dubai Mall",
+      "image_url": "https://res.cloudinary.com/ddjuftfy2/image/upload/f_webp,c_fill,q_auto/memphis/large/1718566367_cover%20(1).webp",
+      "description": "Huge shopping and leisure centre, with department stores, plus an ice rink, aquarium and a cinema.",
+      "gmaps_link": "https://maps.app.goo.gl/YUTWKKazFzbDN8s46"
+    },
+    {
+      "id": 3,
+      "name": "Dubai Mall",
+      "image_url": "https://res.cloudinary.com/ddjuftfy2/image/upload/f_webp,c_fill,q_auto/memphis/large/1718566367_cover%20(1).webp",
+      "description": "Huge shopping and leisure centre, with department stores, plus an ice rink, aquarium and a cinema.",
+      "gmaps_link": "https://maps.app.goo.gl/YUTWKKazFzbDN8s46"
     }
   ]
 }
