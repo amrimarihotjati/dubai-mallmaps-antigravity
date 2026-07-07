@@ -8,7 +8,7 @@
     {
       "id": 1,
       "name": "Dubai Mall",
-      "image_url": "https://source.unsplash.com/featured/800x600/?dubai,mall",
+      "image_url": "https://res.cloudinary.com/ddjuftfy2/image/upload/f_webp,c_fill,q_auto/memphis/large/1718566367_cover%20(1).webp",
       "description": "The world's most visited shopping destination featuring over 1,200 stores, Dubai Aquarium & Underwater Zoo, Dubai Ice Rink, KidZania and direct access to Burj Khalifa.",
       "address": "Downtown Dubai, Financial Centre Road",
       "latitude": 25.197197,
@@ -27,7 +27,7 @@
     {
       "id": 2,
       "name": "Mall of the Emirates",
-      "image_url": "https://source.unsplash.com/featured/800x600/?mall,emirates",
+      "image_url": "https://www.imtilakgroup.com/cdn-cgi/image/format=auto,fit=contain/https://imt-assets.fra1.digitaloceanspaces.com/Safaraq/posts/f7cb2c2a31ba1e936312cb3abbb8634f7ok_773OTT.webp",
       "description": "Luxury shopping mall famous for Ski Dubai, premium brands and entertainment.",
       "address": "Al Barsha 1, Sheikh Zayed Road",
       "latitude": 25.118049,
@@ -46,7 +46,7 @@
     {
       "id": 3,
       "name": "Dubai Festival City Mall",
-      "image_url": "https://source.unsplash.com/featured/800x600/?festival,city,mall",
+      "image_url": "https://gmz.ae/wp-content/uploads/2024/02/Dubai-Festival-City.png",
       "description": "Waterfront mall well known for the IMAGINE laser, water and fire show.",
       "address": "Dubai Festival City",
       "latitude": 25.223548,
@@ -65,7 +65,7 @@
     {
       "id": 4,
       "name": "City Centre Deira",
-      "image_url": "https://source.unsplash.com/featured/800x600/?deira,mall",
+      "image_url": "https://www.timeoutdubai.com/cloud/timeoutdubai/2021/09/28/City-Centre-Deira_1.jpg",
       "description": "One of Dubai's oldest and busiest shopping malls with hundreds of international brands.",
       "address": "Port Saeed, Deira",
       "latitude": 25.252475,
@@ -84,7 +84,7 @@
     {
       "id": 5,
       "name": "City Centre Mirdif",
-      "image_url": "https://source.unsplash.com/featured/800x600/?mirdif,mall",
+      "image_url": "https://www.visitdubai.com/-/media/gathercontent/poi/c/city-centre-mirdif/fallback-image/city-centre-mirdif-01.jpg",
       "description": "Modern family shopping destination with entertainment and dining.",
       "address": "Mirdif",
       "latitude": 25.225773,
@@ -103,7 +103,7 @@
     {
       "id": 6,
       "name": "Ibn Battuta Mall",
-      "image_url": "https://source.unsplash.com/featured/800x600/?ibn,battuta,mall",
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5e/e4/7b/ibn-battuta-mall-blends.jpg?w=900&h=-1&s=1",
       "description": "Unique themed mall inspired by the travels of Ibn Battuta across six civilizations.",
       "address": "Jebel Ali Village",
       "latitude": 25.045558,
@@ -122,7 +122,7 @@
     {
       "id": 7,
       "name": "Dubai Hills Mall",
-      "image_url": "https://source.unsplash.com/featured/800x600/?dubai,hills,mall",
+      "image_url": "https://cdn.excelproperties.ae/media/blog/meta/Dubai_Hills_Mall_1_1200x630.webp?width=1200&height=630&format=jpeg&quality=15",
       "description": "One of Dubai's newest premium malls featuring The Storm indoor roller coaster.",
       "address": "Dubai Hills Estate",
       "latitude": 25.110843,
@@ -141,7 +141,7 @@
     {
       "id": 8,
       "name": "Nakheel Mall",
-      "image_url": "https://source.unsplash.com/featured/800x600/?nakheel,mall",
+      "image_url": "https://www.timeoutdubai.com/cloud/timeoutdubai/2021/09/13/aEWhzTVt-Nakheel-Mall1.jpg",
       "description": "Premium shopping destination on Palm Jumeirah with rooftop dining and attractions.",
       "address": "Palm Jumeirah",
       "latitude": 25.112063,
@@ -160,7 +160,7 @@
     {
       "id": 9,
       "name": "Mercato Shopping Mall",
-      "image_url": "https://source.unsplash.com/featured/800x600/?mercato,mall",
+      "image_url": "https://www.visitdubai.com/-/media/gathercontent/poi/m/mercato-shopping-mall/fallback-image/mercato-shopping-mall.jpg",
       "description": "Italian Renaissance-inspired shopping mall offering boutique shopping and dining.",
       "address": "Jumeirah Beach Road",
       "latitude": 25.217372,
