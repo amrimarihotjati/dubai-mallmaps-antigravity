@@ -1,0 +1,15 @@
+{
+  "admob_config": {
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial_id": "ca-app-pub-3940256099942544/1033173712"
+  },
+  "malls": [
+    {
+      "id": 1,
+      "name": "The Dubai Mall",
+      "image_url": "https://example.com/dubaimall.jpg",
+      "description": "Mall terbesar di dunia dengan berbagai fasilitas mewah.",
+      "gmaps_link": "https://goo.gl/maps/contohLink1"
+    }
+  ]
+}
