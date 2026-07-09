@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">خرائط دبي مول</string>
+    <string name="discover_dubai">اكتشف دبي</string>
+    <string name="search_malls">البحث عن المولات...</string>
+    <string name="nearest">الأقرب</string>
+    <string name="featured">مميز</string>
+    <string name="about_app">عن التطبيق</string>
+    <string name="about_description">دليلك النهائي لاكتشاف أفضل مراكز التسوق في دبي. استكشف الوجهات الفاخرة، وابحث عن أدلة المتاجر، وتنقل بسهولة باستخدام الخرائط المدمجة.</string>
+    <string name="version">الإصدار 1.0.0</string>
+    <string name="created_by">تم الإنشاء بواسطة Elzayn Dev</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="favorite">مفضل</string>
+    <string name="home">الرئيسية</string>
+    <string name="about">حول</string>
+    <string name="overview">نظرة عامة</string>
+    <string name="anchor_stores">المتاجر الرئيسية</string>
+    <string name="restaurants">المطاعم</string>
+    <string name="facilities">مرافق</string>
+    <string name="highlights">يسلط الضوء</string>
+    <string name="open_gmaps">افتح في خرائط جوجل</string>
+    <string name="onboarding_title_1">مرحباً بك في خرائط دبي مول</string>
+    <string name="onboarding_desc_1">اكتشف أفخم وجهات التسوق، واستعرض الأدلة المفصلة، واعثر على ما تحتاجه بكل سهولة.</string>
+    <string name="onboarding_title_2">جاهز للاستخدام بدون إنترنت</string>
+    <string name="onboarding_desc_2">تضمن ميزة التخزين المؤقت الذكية لدينا إمكانية الوصول إلى أدلة المراكز التجارية حتى بدون اتصال بالإنترنت.</string>
+    <string name="onboarding_title_3">ابحث عن أقرب مركز تجاري</string>
+    <string name="onboarding_desc_3">اسمح بالوصول إلى الموقع للعثور فورًا على أقرب مراكز التسوق إليك. نستخدم هذا فقط أثناء استخدامك للتطبيق.</string>
+    <string name="btn_next">التالي</string>
+    <string name="btn_get_started">البدء</string>
+    <string name="btn_allow_location">السماح بالموقع</string>
+    <string name="btn_skip">تخطي</string>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Dubai Mall Maps</string>
+    <string name="discover_dubai">Jelajahi Dubai</string>
+    <string name="search_malls">Cari Mall...</string>
+    <string name="nearest">Terdekat</string>
+    <string name="featured">UNGGULAN</string>
+    <string name="about_app">Tentang Aplikasi</string>
+    <string name="about_description">Panduan utama Anda untuk menemukan mal belanja terbaik di Dubai. Jelajahi destinasi mewah, temukan direktori toko, dan navigasi dengan mudah menggunakan peta terintegrasi.</string>
+    <string name="version">Versi 1.0.0</string>
+    <string name="created_by">Dibuat oleh Elzayn Dev</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="favorite">Favorit</string>
+    <string name="home">Beranda</string>
+    <string name="about">Tentang</string>
+    <string name="overview">Ringkasan</string>
+    <string name="anchor_stores">Toko Utama</string>
+    <string name="restaurants">Restoran</string>
+    <string name="facilities">Fasilitas</string>
+    <string name="highlights">Sorotan</string>
+    <string name="open_gmaps">Buka di Google Maps</string>
+    <string name="onboarding_title_1">Selamat Datang di Dubai Mall Maps</string>
+    <string name="onboarding_desc_1">Temukan destinasi belanja paling mewah, lihat direktori detail, dan temukan apa yang Anda butuhkan dengan mudah.</string>
+    <string name="onboarding_title_2">Siap untuk Mode Offline</string>
+    <string name="onboarding_desc_2">Penyimpanan pintar kami memastikan Anda dapat mengakses direktori mall bahkan tanpa koneksi internet.</string>
+    <string name="onboarding_title_3">Temukan Mall Terdekat</string>
+    <string name="onboarding_desc_3">Izinkan akses lokasi untuk langsung menemukan mall terdekat. Kami hanya menggunakan ini saat Anda membuka aplikasi.</string>
+    <string name="btn_next">Selanjutnya</string>
+    <string name="btn_get_started">Mulai Sekarang</string>
+    <string name="btn_allow_location">Izinkan Lokasi</string>
+    <string name="btn_skip">Lewati</string>
+</resources>

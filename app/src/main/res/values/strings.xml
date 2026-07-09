@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Dubai Mall Maps</string>
+    <string name="discover_dubai">Discover Dubai</string>
+    <string name="search_malls">Search Malls...</string>
+    <string name="nearest">Nearest</string>
+    <string name="featured">FEATURED</string>
+    <string name="about_app">About App</string>
+    <string name="about_description">Your ultimate guide to discovering the best shopping malls in Dubai. Explore luxurious destinations, find store directories, and navigate easily with integrated maps.</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="created_by">Created by Elzayn Dev</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite">Favorite</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="overview">Overview</string>
+    <string name="anchor_stores">Anchor Stores</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="facilities">Facilities</string>
+    <string name="highlights">Highlights</string>
+    <string name="open_gmaps">Open in Google Maps</string>
+    <string name="onboarding_title_1">Welcome to Dubai Mall Maps</string>
+    <string name="onboarding_desc_1">Discover the most luxurious shopping destinations, view detailed directories, and find what you need with ease.</string>
+    <string name="onboarding_title_2">Ready for Offline Use</string>
+    <string name="onboarding_desc_2">Our smart caching ensures you can access mall directories even without an internet connection.</string>
+    <string name="onboarding_title_3">Find the Nearest Malls</string>
+    <string name="onboarding_desc_3">Allow location access to instantly find malls closest to you. We only use this while you use the app.</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="btn_allow_location">Allow Location</string>
+    <string name="btn_skip">Skip</string>
+    <string name="transit_directions">Public Transport Directions</string>
+</resources>
